@@ -15,10 +15,11 @@ import kotlinx.android.synthetic.main.content_results.*
 
 class MainActivity : AppCompatActivity() {
 
+
     class CoffeeValues {
 
         fun getSomeText(): String{
-            return "Function text"
+            return "Hey who"
         }
 
     }
